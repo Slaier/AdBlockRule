@@ -4,7 +4,7 @@
 ! Expires: 7 days
 ! Homepage: https://github.com/Slaier/AdBlockRule
 ! License: https://raw.githubusercontent.com/Slaier/AdBlockRule/master/LICENSE
-! Last Modified: 2019-07-28 22:56:44
+! Last Modified: 2020-12-13 11:34:00
 
 !blog.csdn.net
 blog.csdn.net##aside
@@ -41,3 +41,4 @@ jianshu.com##.line-container
 jianshu.com##.note-comment-above-ad-wrap
 jianshu.com##.recommend-ad
 jianshu.com##.recommend-note > .stats-comp + div
+||oimagea*.ydstatic.com/image$image
