@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 2
+! Version: 3
 ! Title: Ad Block CN Supplement
 ! Expires: 7 days
 ! Homepage: https://github.com/Slaier/AdBlockRule
 ! License: https://raw.githubusercontent.com/Slaier/AdBlockRule/master/LICENSE
-! Last Modified: 2020-12-13 11:34:00
+! Last Modified: 2021-02-15 11:00:00
 
 !blog.csdn.net
 blog.csdn.net##aside
@@ -21,15 +21,16 @@ blog.csdn.net##.t0.clearfix
 https://g.csdnimg.cn/check-adb/
 
 
-!juejin.im
-juejin.im##.article-banner
-juejin.im##.footer section
-juejin.im##.global-component-box
-juejin.im##.index-book-collect
-juejin.im##.main-header-box
-juejin.im##.mobile-bottom-bar
-juejin.im##.recommend-box
-juejin.im##.recommended-area
+!juejin.cn
+juejin.cn##.article-banner
+juejin.cn##.footer section
+juejin.cn##.global-component-box
+juejin.cn##.index-book-collect
+juejin.cn##.main-header-box
+juejin.cn##.mobile-bottom-bar
+juejin.cn##.recommend-box
+juejin.cn##.recommended-area
+juejin.cn##.sidebar-bd-entry
 
 !jianshu.com
 jianshu.com###footer
